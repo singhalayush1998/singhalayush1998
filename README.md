@@ -10,10 +10,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-singhal-a238b513b/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://portfolio-fawn-omega.vercel.app/)
-
 - 😄 Pronouns: He/His
 - 📫 How to reach me **1998ayushsinghal@gmail.com** 
 - ⚡ Fun fact **Time, Tide and JavaScript waits for none.**
+- 📑 Know More About [Me](https://drive.google.com/file/d/1Q4TYxVhTBQTDN1XICoaO_kQfeEFlwANy/view?usp=sharing)
 
 
 <h3 align="left">Languages and Tools:</h3>
